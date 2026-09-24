@@ -108,8 +108,9 @@ color and boxing, so don’t expect magic from the PNGs — the hand text is the
 good path.
 
 Screensaver / logo ASCII is a dense **CAGED** wordmark plus the menu’s
-terminal status panel (no empty lines). About / icon is the CAGED lambda badge
-silhouette (bars + palm tips inside the λ).
+terminal status panel (no empty lines). About / icon is a tropical **cell-door**
+badge (twin palms over barred door + lock plate — no λ / crowbar; this wing
+of Black Mesa doesn’t hand you one).
 
 ### Unlock
 
