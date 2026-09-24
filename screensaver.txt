@@ -1,0 +1,14 @@
+ ███████   █████    ██████   ███████  ██████
+██        ██   ██  ██       ██       ██   ██
+██        ███████  ██   ███ █████    ██   ██
+██        ██   ██  ██    ██ ██       ██   ██
+ ███████  ██   ██   ██████  ███████  ██████
+████████████████████████████████████████████████████
+█ C.A.G.E.D. V1.2        SYSTEM TIME --:--         █
+█ Lockdown Status: NEGATIVE                       █
+█ Gruel Sustenance Pump: ONLINE                   █
+█ TURRET Wellness System: ONLINE                  █
+█ Assignment: CELL E3       Name: <UNKNOWN>       █
+█ Violation: <UNKNOWN>                            █
+█ >| INCOMING ORDERS...                           █
+████████████████████████████████████████████████████

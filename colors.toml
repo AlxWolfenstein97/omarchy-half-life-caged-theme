@@ -1,0 +1,38 @@
+mode = "dark"
+
+# Prison amber pack — C.A.G.E.D. logo glow (#D04000 sampled) + warning yellow.
+# Distinct from HEV Suit (hazard orange + blueprint cyan). Loud accent for
+# Limine / borders; pastel ANSI + lifted darker_background for OmaVT/TTY
+# (same slot split as Doom Eternal / Asphalt / HEV).
+accent = "#E85800"
+selection = "#2A1808"
+muted = "#6A5A48"
+
+background = "#12100C"
+dark_background = "#0C0A08"
+darker_background = "#100C08"
+lighter_background = "#221C14"
+
+foreground = "#F0E8D0"
+dark_foreground = "#8A7A68"
+light_foreground = "#D4C8B0"
+bright_foreground = "#FFFFFF"
+
+hyprland_active_border = "rgba(E85800ee) rgba(F0C040ee) 45deg"
+hyprland_inactive_border = "rgba(2A1808aa)"
+
+red = "#FF6B60"
+yellow = "#F0C040"
+orange = "#E85800"
+green = "#8ACC5A"
+cyan = "#50B8B0"
+blue = "#5A8ABA"
+magenta = "#E08060"
+brown = "#8A5040"
+
+bright_red = "#FF8A80"
+bright_yellow = "#FFE066"
+bright_green = "#A8E070"
+bright_cyan = "#80E0D8"
+bright_blue = "#80A8D0"
+bright_magenta = "#F0A080"
