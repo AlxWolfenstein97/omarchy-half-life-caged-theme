@@ -4,8 +4,8 @@ Remember that short and sweet Half-Life 1 mod exclusively featuring combat
 against the marines? Sadly the prison's automated audio system couldn't
 jack into Hypr — oh well. The desktop still woke up in **prison amber**
 instead of facility blue: Lazerhawk on the speakers, Hypr borders running a
-45° **amber → warning-yellow** gradient (same dual-accent trick as Asphalt,
-HEV, Galuga, CS, Doom 2016 & Eternal). Assignment: CELL E3. Name:
+45° **amber → warning-yellow** gradient (same dual-accent trick as
+Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016, Eternal, KI, Rising, Stanley, SF6, T2D & USFIV). Assignment: CELL E3. Name:
 \<UNKNOWN\>. Violation: still pending.
 
 Prison-escape theme for [Omarchy](https://omarchy.org/). Inspired by the look
